@@ -289,3 +289,8 @@ form h4 {
   border-top-right-radius: var(--borderRadius);
   border-bottom-right-radius: var(--borderRadius);
 }
+.items {
+  margin-top: 2rem;
+  display: grid;
+  gap: 1rem;
+}
