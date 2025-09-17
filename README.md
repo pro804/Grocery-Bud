@@ -30,19 +30,13 @@ A sleek and intuitive grocery list manager built with React. Perfect for keeping
 
 ## 🎓 Key Learning Outcomes
 
-- `State Management`: Mastered the useState hook to manage complex state (an array of objects) and implement CRUD (Create, Read, Update, Delete) operations in a React application.
-
-- `Component Composition & Communication Through props`: Designed a clear component hierarchy (App -> Items -> SingleItem) and effectively passed state and functions down the component tree via props.
-
-- `Lifting State Up`: Successfully refactored the application to move the - completed state from a local component state to the global App state, ensuring data consistency and persistence.
-
-- `Controlled Inputs`: Implemented a fully controlled form input, handling user input via React state for a predictable and debug-friendly data flow.
-
-- `Data Persistence`: Integrated the browser's Local Storage API to persist application state, creating a seamless user experience that survives page refreshes and browser sessions.
-
-- `User Experience (UX) & Feedback`: Enhanced the UI/UX by integrating react-toastify to provide users with immediate and clear feedback for their actions (adding, editing, deleting items).
-
-- `Project Tooling`: Gained experience with modern front-end build tools and libraries like Vite, Nanoid for ID generation, and CSS-in-JS techniques for dynamic styling.
+- **State Management:** Developed proficiency with the useState hook to manage complex state (arrays of objects) and implement full CRUD (Create, Read, Update, Delete) operations.
+- **Component Architecture:** Designed a clear component hierarchy (App → Items → SingleItem) and established effective communication through props for passing state and callback functions.
+- **State Management Strategy:** Applied the "lifting state up" pattern by refactoring component state to the application level, ensuring data consistency and simplifying persistence.
+- **Form Handling:** Implemented controlled input components managed by React state, creating a predictable data flow and debugging experience.
+- **Data Persistence:** Integrated the browser's Local Storage API to maintain application state across sessions, enhancing user experience with persistent data.
+- **User Experience:** Enhanced UI/UX by implementing react-toastify for actionable user feedback during add, edit, and delete operations.
+- **Build Tools & Libraries:** Gained practical experience with modern frontend development tools including Vite, Nanoid for unique ID generation, and dynamic CSS techniques.
 
 ## ✨ Features
 
@@ -56,7 +50,7 @@ A sleek and intuitive grocery list manager built with React. Perfect for keeping
 
 ## 📸 Project Preview
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><strong>💻 Desktop View</strong></td>
   </tr>
